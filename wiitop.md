@@ -45,8 +45,8 @@ Buyers will bring their own Wii to be modified, then pay for parts, labor, and s
 
 
 # Changelog (dates in MM/DD/YYYY)
-Rev A (9/24/2024) - initial hardware
-Rev B (9/24/2024) - updated port 1 hub to 6-port, added power reporting interface, added 2nd internal expansion header
-Rev C (9/24/2024) - Add external USB-C port for charging
-Rev D (9/24/2024) - Make it a full specification rather than just hardware description.  Add basic description of the WiiTop
-Rev E (9/24/2024) - Add dates to the chanelog while I still can remember them (the first day of development)
+Rev A (9/24/2024) - initial hardware  
+Rev B (9/24/2024) - updated port 1 hub to 6-port, added power reporting interface, added 2nd internal expansion header  
+Rev C (9/24/2024) - Add external USB-C port for charging  
+Rev D (9/24/2024) - Make it a full specification rather than just hardware description.  Add basic description of the WiiTop  
+Rev E (9/24/2024) - Add dates to the chanelog while I still can remember them (the first day of development)  
